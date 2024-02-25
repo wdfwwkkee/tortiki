@@ -1,29 +1,6 @@
-[
-  {
-      "id" : 1,
-      "name" : "Car-1",
-      "price" : 10000,
-      "image" : "https://www.topgear.com/sites/default/files/2022/02/1-Mercedes-AMG-GT-63-S-E-Performance.jpg"
-  },
-
-  {
-      "id" : 2,
-      "name" : "Car-2",
-      "price" : 50000,
-      "image" : "https://thefuriousengineer.com/wp-content/uploads/2018/03/Merc-AMG-GT-3.png"
-  },
-
-  {
-      "id" : 3,
-      "name" : "Car-3",
-      "price" : 100000,
-      "image" : "https://thefuriousengineer.com/wp-content/uploads/2018/03/Merc-AMG-GT-3.png"
-  },
-
-  {
-      "id" : 4,
-      "name" : "Car-4",
-      "price" : 100000,
-      "image" : "https://www.topgear.com/sites/default/files/2022/02/1-Mercedes-AMG-GT-63-S-E-Performance.jpg"
-  }
-]
+{
+    "id" : 1,
+    "name" : "Car-1",
+    "price" : 10000,
+    "image" : "https://www.topgear.com/sites/default/files/2022/02/1-Mercedes-AMG-GT-63-S-E-Performance.jpg"
+}
