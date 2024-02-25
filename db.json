@@ -1,6 +1,22 @@
 {
-    "id" : 1,
-    "name" : "Car-1",
-    "price" : 10000,
-    "image" : "https://www.topgear.com/sites/default/files/2022/02/1-Mercedes-AMG-GT-63-S-E-Performance.jpg"
+    "cars" : [
+        {
+            "id" : 1,
+            "name" : "Car-1",
+            "price" : 200000,
+            "image" : "https://imageio.forbes.com/specials-images/imageserve/6064b148afc9b47d022718d1/Hennessey-Venom-F5/960x0.jpg?height=473&width=711&fit=bounds"
+        },
+        {
+            "id" : 2,
+            "name" : "Car-2",
+            "price" : 10000,
+            "image" : "https://imageio.forbes.com/specials-images/imageserve/6064b148afc9b47d022718d1/Hennessey-Venom-F5/960x0.jpg?height=473&width=711&fit=bounds"
+        },
+        {
+            "id" : 3,
+            "name" : "Car-3",
+            "price" : 5000000,
+            "image" : "https://imageio.forbes.com/specials-images/imageserve/6064b148afc9b47d022718d1/Hennessey-Venom-F5/960x0.jpg?height=473&width=711&fit=bounds"
+        }
+    ]
 }
